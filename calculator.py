@@ -11,7 +11,7 @@ def printHelp():
     print("\n- Type a valid calculation, I will give you the answer\n- A valid calculation contains only math symbols and numbers, but no '='\n- Type quit to exit")
 
 
-print("Welcome to Michelle's Calculator!") 
+print("Welcome to Calculator") 
 print("\n- Type a valid calculation, I will give you the answer\n- Type quit to exit\n- Type help for instructions")
 
 while True:
