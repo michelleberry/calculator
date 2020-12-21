@@ -1,5 +1,5 @@
 # Calculator
-Just a calculator I made to learn python.
+Just a calculator I made in python.
 
 # Requirements
 - have python installed
